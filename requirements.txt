@@ -1,0 +1,6 @@
+# The Fifth Nail - runtime dependencies
+# install with:  pip install -r requirements.txt
+ursina==7.0.0
+panda3d==1.10.14
+panda3d-gltf==1.2.0
+Pillow>=10.0.0

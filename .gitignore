@@ -1,0 +1,29 @@
+# the virtual environment - everybody makes their own with requirements.txt
+.venv/
+venv/
+myenv/
+env/
+
+# python
+__pycache__/
+*.py[cod]
+
+# pycharm
+.idea/
+*.iml
+
+# windows / mac junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# the save file with the trophies in it. it normally lives in my home folder
+# but an older version of the game wrote it next to the game instead, and a
+# save shipping with the game means somebody else's copy starts with all of my
+# trophies already unlocked.
+save_state.json
+highscore.json
+.eternalmalice/
+
+# my own backups
+*.bak
