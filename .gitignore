@@ -17,10 +17,7 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# the save file with the trophies in it. it normally lives in my home folder
-# but an older version of the game wrote it next to the game instead, and a
-# save shipping with the game means somebody else's copy starts with all of my
-# trophies already unlocked.
+#Noone gets my trophies
 save_state.json
 highscore.json
 .eternalmalice/
