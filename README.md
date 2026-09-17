@@ -20,8 +20,7 @@ the game needs.
 ```
 python launcher.py 
 ```
-#Little update updating on 17.09.2026 - Please after downaloding also download the requirements with pip in cmd, i recommend opening the folder in terminal and then doing the necessary steps. 
-
+#Little update updating on 17.09.2026 - 
 BE AWARE THE GAME TAKES TIME TO LOAD IT'S BIG, ALSO DONT BE JUMPSCARED BY THE MUSIC
 
 That is the only file you have to run. If the framerate is bad, and on a laptop it
